@@ -106,7 +106,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository:
 ```
-git clone https://github.com/jmonto55/biotech_conference.git
+git clone https://github.com/Lameck1/biotech_conference.git
 ```
 
 ### Install
