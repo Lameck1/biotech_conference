@@ -84,7 +84,7 @@ This project is a biotechnology conference web where you can see all the informa
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://lameck1.github.io/biotech_conference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
