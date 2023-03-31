@@ -37,12 +37,13 @@ a {
 }
 
 .close_icon {
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-    z-index: 99;
-    position: fixed;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  z-index: 99;
+  position: fixed;
 }
+
 .mobile_icon {
   display: inline-block;
   height: 30px;
