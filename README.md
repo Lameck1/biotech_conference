@@ -84,7 +84,7 @@ This project is a biotechnology conference web where you can see all the informa
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://lameck1.github.io/biotech_conference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +106,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository:
 ```
-git clone https://github.com/jmonto55/biotech_conference.git
+git clone https://github.com/Lameck1/biotech_conference.git
 ```
 
 ### Install
